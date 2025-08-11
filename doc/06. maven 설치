@@ -4,7 +4,7 @@ Maven 3.9.6 설치
 # pwd
 /root
 다운로드
-# wget https://dlcdn.apache.org/maven/maven-3/3.9.6/binaries/apache-maven-3.9.6-bin.tar.gz
+# wget https://dlcdn.apache.org/maven/maven-3/3.9.11/binaries/apache-maven-3.9.11-bin.tar.gz
 설치
 # tar xvfz apache-maven-3.9.6-bin.tar.gz
 # mv apache-maven-3.9.6 /usr/local/poscodx
